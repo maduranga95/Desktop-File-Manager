@@ -1,7 +1,6 @@
 # File Explorer
 
-A simple file explorer implemented with node.js modules, you can navigate through
-folders and open files.
+A simple file explorer implemented using electron which has added features rather than a typical file management system.
 
 ## APIs
 
@@ -11,6 +10,6 @@ folders and open files.
 * [util module](http://nodejs.org/api/util.html)
 * [child_process module](http://nodejs.org/api/child_process.html)
 
-## Screenshot
 
-![screenshot](/file-explorer/screenshot/screenshot.png)
+
+
